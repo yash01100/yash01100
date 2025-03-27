@@ -6,6 +6,8 @@
 <h1 align="center">Hi 👋, I'm YASH RAJ</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+<img align="right" alt="coding" width=300 boder-radius=10 src="https://github.com/yash01100/yash01100/edit/main/README.md">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yash01100&label=Profile%20views&color=0e75b6&style=flat" alt="yash01100" /> </p>
 
 - 🌱 I’m currently learning **PYTHON,JAVA,C++**
