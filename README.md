@@ -1,15 +1,26 @@
 
-![Yash Raj - GitHub Profile Banner](./Yash%20Raj_%20AI-Powered%20Developer%20Portfolio.png)
+<!-- PROFILE BANNER -->
+![Yash Raj - AI-Powered Developer Portfolio](./Yash%20Raj_%20AI-Powered%20Developer%20Portfolio.png)
 
 <h1 align="center">Hi 👋, I'm Yash Raj</h1>
-<h3 align="center">Software Engineer | AI & Full-Stack Developer | Startup Builder</h3>
+
+<h3 align="center">
+  Software Engineer | AI Enthusiast | Startup Builder
+</h3>
+
+<p align="center">
+  Building scalable technology products using AI, IoT and Full-Stack Development.
+</p>
 
 <p align="center">
   <a href="https://yashrajportfoliocom.lovable.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit_My_Website-0078D4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge" alt="Portfolio"/>
   </a>
-  <a href="https://github.com/yash01100">
-    <img src="https://img.shields.io/badge/GitHub-My_Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <a href="https://leetcode.com/u/yash__raj__764/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+  </a>
+  <a href="mailto:rajyash123450@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
@@ -17,72 +28,71 @@
 
 ## 👨‍💻 About Me
 
-I'm a Computer Science and Engineering student passionate about software development, artificial intelligence, and building innovative technology products.
-
-- 🎓 Pursuing B.Tech in Computer Science & Engineering
-- 🚀 Currently building **ARYNEXA AI**
-- 🤖 Interested in AI/ML and intelligent applications
-- 💻 Practicing Data Structures & Algorithms
-- 🌱 Learning Java, Python, C++, and full-stack development
-- 🤝 Open to internships, collaborations, and exciting projects
-- 📫 Email: **[rajyash123450@gmail.com](mailto:rajyash123450@gmail.com)**
+- 🎓 B.Tech Computer Science Engineering student at K.R. Mangalam University.
+- 💻 Interested in Software Development, Artificial Intelligence and problem-solving.
+- 🤖 Building **ARYNEXA AI**, an AI-powered digital assistant.
+- 🧠 Practising Data Structures and Algorithms on LeetCode using C++.
+- 🚀 Interested in building useful products and startup ideas.
+- 🌱 Continuously learning new technologies and improving my development skills.
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🤖 ARYNEXA AI
+An AI-powered digital companion with chat and document-related features.
 
-An AI-powered digital assistant with chat, document interaction, and productivity features.
-
-**Tech:** React · Node.js · Express · OpenAI API
+- Technologies: React, Vite, Node.js, Express and OpenAI API.
+- Focus: AI assistance and full-stack development.
+- Repository: Add your ARYNEXA AI repository link here.
 
 ### 🏥 Real-Time Hospital Bed & Oxygen Supply Management
+An AI and IoT-focused dashboard for hospital resource monitoring.
 
-An intelligent healthcare dashboard designed to monitor hospital bed availability and oxygen supplies, with AI-assisted forecasting.
+- Tracks hospital bed and oxygen supply information.
+- Explores predictive analytics and resource management.
+- 🔗 [View Live Project](https://healthflow-ai-suite.lovable.app/)
 
-**Tech:** AI/ML · Data Analytics · Forecasting
+### 🔐 Fingerprint-X
+A machine-learning project involving fingerprint image analysis.
 
-🔗 [View Live Project](https://healthflow-ai-suite.lovable.app/)
-
-### 🔍 Fingerprint-X
-
-A machine learning project exploring fingerprint image processing and classification using a fingerprint dataset.
-
-**Tech:** Python · TensorFlow · Keras
+- Uses image preprocessing and deep learning.
+- Built using Python and TensorFlow/Keras.
+- Focus: Computer vision and ML experimentation.
 
 ### 📇 Contact Management System
+A project for managing contact information.
 
-A project focused on storing, organizing, and managing contact information.
+- Focus: Data handling and programming fundamentals.
+- Repository: [Contact Management System](https://github.com/yash01100/CONTACT-MANAGEMENT-SYSTEM)
 
-🔗 [View My Repositories](https://github.com/yash01100?tab=repositories)
+### 🌡️ Temperature Converter
+A utility project for converting temperature units.
+
+- Repository: [Temperature Converter](https://github.com/yash01100/Temperature-Convertor)
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Programming Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=cpp,java,python,js" alt="C++, Java, Python, JavaScript" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,js,react,nodejs,express,mongodb,html,css,git,github,vscode,tensorflow" alt="Tech Stack"/>
 </p>
 
-### Web Development
+---
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express" alt="HTML, CSS, React, Node.js, Express" />
+## 🧩 LeetCode Progress
+
+<p align="center">
+  <a href="https://leetcode.com/u/yash__raj__764/">
+    <img src="https://leetcard.jacoblin.cool/yash__raj__764?theme=dark&font=Baloo_2" alt="Yash Raj's LeetCode Stats"/>
+  </a>
 </p>
 
-### Databases & Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode" alt="MySQL, MongoDB, Git, GitHub, VS Code" />
-</p>
-
-### AI & Machine Learning
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,tensorflow" alt="Python and TensorFlow" />
+<p align="center">
+  <a href="https://leetcode.com/u/yash__raj__764/">
+    Visit My LeetCode Profile
+  </a>
 </p>
 
 ---
@@ -90,31 +100,32 @@ A project focused on storing, organizing, and managing contact information.
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yash01100&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash01100&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yash01100&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash01100&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Most Used Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=yash01100&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
+  <img src="https://streak-stats.demolab.com?user=yash01100&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
 </p>
 
 ---
 
-## 🌐 Connect With Me
+## 🤝 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yash-raj-1bab00329/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
   <a href="https://www.instagram.com/yash_raj_764/">
-    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-Follow-purple?style=for-the-badge&logo=instagram" alt="Instagram"/>
   </a>
   <a href="mailto:rajyash123450@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail" alt="Email"/>
   </a>
 </p>
 
 ---
 
-<h3 align="center">💡 Build. Learn. Innovate. Repeat.</h3>
-<p align="center">Thanks for visiting my profile! ⭐</p>
+<p align="center">
+  <i>“Learn continuously. Build consistently. Improve every day.”</i>
+</p>
