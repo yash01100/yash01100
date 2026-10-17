@@ -1,88 +1,110 @@
-# Hi, I'm Yash Raj 👋
 
-### Software Engineer | AI & Full-Stack Developer | Startup Builder
+![Yash Raj - GitHub Profile Banner](./github-banner.png)
 
-I'm a B.Tech Computer Science student passionate about building practical technology solutions using **AI, full-stack development, and intelligent systems**. I enjoy turning ideas into real-world projects and continuously improving my problem-solving and software development skills.
+<h1 align="center">Hi 👋, I'm Yash Raj</h1>
+<h3 align="center">Software Engineer | AI & Full-Stack Developer | Startup Builder</h3>
 
-- 🎓 **Education:** B.Tech in Computer Science & Engineering
-- 💻 **Interests:** Software Engineering, AI/ML, Full-Stack Development
-- 🚀 **Currently building:** ARYNEXA AI
-- 🌱 **Currently learning:** Data Structures & Algorithms, Java, Python, C++
-- 🤝 **Open to:** Internships, collaborations, and innovative projects
-- 📫 **Email:** [rajyash123450@gmail.com](mailto:rajyash123450@gmail.com)
-- 🌐 **Portfolio:** [Visit My Portfolio](https://yashrajportfoliocom.lovable.app/)
+<p align="center">
+  <a href="https://yashrajportfoliocom.lovable.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit_My_Website-0078D4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://github.com/yash01100">
+    <img src="https://img.shields.io/badge/GitHub-My_Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+I'm a Computer Science and Engineering student passionate about software development, artificial intelligence, and building innovative technology products.
+
+- 🎓 Pursuing B.Tech in Computer Science & Engineering
+- 🚀 Currently building **ARYNEXA AI**
+- 🤖 Interested in AI/ML and intelligent applications
+- 💻 Practicing Data Structures & Algorithms
+- 🌱 Learning Java, Python, C++, and full-stack development
+- 🤝 Open to internships, collaborations, and exciting projects
+- 📫 Email: **[rajyash123450@gmail.com](mailto:rajyash123450@gmail.com)**
 
 ---
 
 ## 🚀 Featured Projects
 
-### 1. ARYNEXA AI
-An AI-powered digital assistant designed to bring intelligent chat, document interaction, and productivity features into one platform.
+### 🤖 ARYNEXA AI
 
-**Focus:** AI Integration · React · Node.js · Express
+An AI-powered digital assistant with chat, document interaction, and productivity features.
 
-### 2. Real-Time Hospital Bed & Oxygen Supply Management
-An intelligent healthcare management dashboard designed to monitor hospital bed availability and oxygen supplies, with AI-assisted forecasting.
+**Tech:** React · Node.js · Express · OpenAI API
 
-**Focus:** AI/ML · Data Analytics · Healthcare Technology
+### 🏥 Real-Time Hospital Bed & Oxygen Supply Management
 
-[Explore the Live Project](https://healthflow-ai-suite.lovable.app/)
+An intelligent healthcare dashboard designed to monitor hospital bed availability and oxygen supplies, with AI-assisted forecasting.
 
-### 3. Fingerprint-X
-A machine learning project exploring fingerprint image processing and classification using a fingerprint image dataset.
+**Tech:** AI/ML · Data Analytics · Forecasting
 
-**Focus:** Python · TensorFlow · Keras · Machine Learning
+🔗 [View Live Project](https://healthflow-ai-suite.lovable.app/)
 
-### 4. Contact Management System
-A software project focused on organizing and managing contact information efficiently.
+### 🔍 Fingerprint-X
 
-[View My GitHub Repositories](https://github.com/yash01100?tab=repositories)
+A machine learning project exploring fingerprint image processing and classification using a fingerprint dataset.
+
+**Tech:** Python · TensorFlow · Keras
+
+### 📇 Contact Management System
+
+A project focused on storing, organizing, and managing contact information.
+
+🔗 [View My Repositories](https://github.com/yash01100?tab=repositories)
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Programming Languages**
+### Programming Languages
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,js" alt="C++, Java, Python, JavaScript" />
+</p>
 
-**Web Development**
+### Web Development
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express" alt="HTML, CSS, React, Node.js, Express" />
+</p>
 
-**Databases & Tools**
+### Databases & Tools
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode" alt="MySQL, MongoDB, Git, GitHub, VS Code" />
+</p>
+
+### AI & Machine Learning
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow" alt="Python and TensorFlow" />
+</p>
 
 ---
 
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yash01100&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="Yash's GitHub statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash01100&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Most used programming languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yash01100&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash01100&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=yash01100&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+  <img src="https://streak-stats.demolab.com?user=yash01100&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
 </p>
 
 ---
 
 ## 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/yash-raj-1bab00329/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://www.instagram.com/yash_raj_764/">
     <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
@@ -94,8 +116,5 @@ A software project focused on organizing and managing contact information effici
 
 ---
 
-<p align="center">
-  <b>“Building today what can make tomorrow better.”</b>
-  <br/>
-  Thanks for visiting my profile! ⭐
-</p>
+<h3 align="center">💡 Build. Learn. Innovate. Repeat.</h3>
+<p align="center">Thanks for visiting my profile! ⭐</p>
