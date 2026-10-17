@@ -1,5 +1,5 @@
 
-![Yash Raj - GitHub Profile Banner](./github-banner.png)
+![Yash Raj - GitHub Profile Banner](./Yash%20Raj_%20AI-Powered%20Developer%20Portfolio.png)
 
 <h1 align="center">Hi 👋, I'm Yash Raj</h1>
 <h3 align="center">Software Engineer | AI & Full-Stack Developer | Startup Builder</h3>
